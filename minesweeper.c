@@ -7,8 +7,7 @@
 
 
 /* The program simulates the game "Minesweeper" */
-/* Writing by Michal,  ID- 206387391
-25.12.20 */
+/* Writing by Michal, 25.12.20 */
 
 
 void printMenu();
